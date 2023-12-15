@@ -1,5 +1,15 @@
 /* this is where all our css is going to go */
 
-/* body{
+body{
     background-color: aqua;
-} */
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+
+/* Path: index.html */
