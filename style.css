@@ -1,5 +1,17 @@
 /* this is where all our css is going to go */
 
-/* body{
-    background-color: aqua;
-} */
+ body{
+    background-color: rgb(183, 0, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+} 
+
+h1{
+    color: rgb(162, 162, 162);
+    font-size: 50px;
+}
+
+p{
+    color: rgb(255, 204, 0);
+    font-size: 20px;
+}
